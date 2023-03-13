@@ -1,4 +1,4 @@
-Repository for ENGR 102 Programming Assignments
+Repository for ENGR 102 Programming Assignments taken Fall 2021 with Dr. Jorge Lara
 Includes:
 Lab 1
 Lab 2
